@@ -6,7 +6,7 @@ export const codeTableValues = {
         { code: 'INTERACTION', description: 'Interaction' }
     ],
     'response_code': [
-        { code: '', description: '' },
+        { code: 'TEST', description: 'Test' },
     ],
     'submission_type_code': [
         { code: 'PROPOSED', description: 'Proposed' },
